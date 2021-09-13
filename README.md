@@ -48,6 +48,8 @@ require('lualine').setup {
 }
 ```
 
+[0]: https://github.com/wbthomason/packer.nvim
+
 ## Contributing
 
 You are welcome to propose changes, however this theme was written by me
