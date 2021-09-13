@@ -106,7 +106,7 @@ local theme = {
 		TSNone = { },
 		TSAnnotation = { fg = lunarised.red, style = 'bold' },
 		TSAttribute = { fg = lunarised.blue },
-		TSBoolean= { fg = lunarised.orange },
+		TSBoolean= { fg = lunarised.green },
 		TSCharacter= { fg = lunarised.orange },
 		TSConditional = { fg = lunarised.green },
 		TSConstBuiltin = { fg = lunarised.blue },
