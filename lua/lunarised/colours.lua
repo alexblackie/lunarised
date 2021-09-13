@@ -11,7 +11,7 @@ local base = {
 	pink = '#d33682',
 	purple = '#6c71c4',
 	red = '#dc322f',
-	smoke = '#f0f0f0',
+	smoke = '#f6f6f6',
 	white = '#ffffff',
 	yellow = '#b58900',
 }
