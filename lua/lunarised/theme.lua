@@ -93,13 +93,6 @@ local theme = {
 		Warnings = { fg = lunarised.orange },
 		WildMenu = { fg = lunarised.orange, bg = lunarised.none, style = 'bold' },
 		qfLineNr = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
-		DashboardCenter = { fg = lunarised.grey },
-		DashboardFooter = { fg = lunarised.green, style = 'italic' },
-		DashboardHeader = { fg = lunarised.grey },
-		DashboardShortCut = { fg = lunarised.grey },
-		healthError = { fg = lunarised.error },
-		healthSuccess = { fg = lunarised.green },
-		healthWarning = { fg = lunarised.purple },
 	},
 
 	treesitter = {
