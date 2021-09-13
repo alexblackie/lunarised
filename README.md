@@ -5,7 +5,7 @@
 **Lunarised** is a customized derivative of Solarized that tweaks the colour
 palette to remove the light yellows to make everything a bit more neutral.
 Solarized is a great theme, but those yellow backgrounds really can wear you
-down afer long periods.
+down after long periods.
 
 This theme is written in Lua and targets **Neovim ≥0.5** exclusively, with
 built-in support for **Lualine** and **GitGutter**.
