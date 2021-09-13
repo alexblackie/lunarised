@@ -15,7 +15,7 @@ built-in support for **Lualine** and **GitGutter**.
 Install the plugin using your favourite method, such as [Packer][0]:
 
 ```lua
-packer = require('packer').startup(function()
+require('packer').startup(function()
 	use 'alexblackie/lunarised'
 end)
 ```
