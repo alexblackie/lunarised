@@ -36,7 +36,7 @@ local theme = {
 		Type = { fg = lunarised.yellow },
 		Typedef = { fg = lunarised.red },
 		Underlined = { fg = lunarised.link, bg = lunarised.none, style = 'underline' },
-		ColorColumn = { fg = lunarised.none, bg = lunarised.active },
+		ColorColumn = { fg = lunarised.none, bg = lunarised.bg_alt },
 		CommandMode = { fg = lunarised.grey, bg = lunarised.none, style = 'reverse' },
 		Conceal = { fg = lunarised.disabled },
 		Cursor = { fg = lunarised.cursor, bg = lunarised.none, style = 'reverse' },
