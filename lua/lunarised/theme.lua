@@ -192,6 +192,7 @@ local theme = {
 		diffIndexLine = { fg = lunarised.yellow },
 
 		-- GitGutter
+		SignColumn = { bg = lunarised.none },
 		GitGutterAdd = { fg = lunarised.green },
 		GitGutterChange = { fg = lunarised.purple },
 		GitGutterDelete = { fg = lunarised.red },
