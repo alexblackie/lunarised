@@ -64,7 +64,7 @@ local theme = {
 		NormalMode = { fg = lunarised.accent, bg = lunarised.none, style = 'reverse' },
 		Pmenu = { fg = lunarised.bg, bg = lunarised.contrast },
 		PmenuSbar = { fg = lunarised.text, bg = lunarised.contrast },
-		PmenuSel = { fg = lunarised.accent, bg = lunarised.active },
+		PmenuSel = { fg = lunarised.bg, bg = lunarised.active },
 		PmenuThumb = { fg = lunarised.fg, bg = lunarised.accent },
 		Question = { fg = lunarised.green },
 		QuickFixLine = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
