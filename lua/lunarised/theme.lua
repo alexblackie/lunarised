@@ -152,6 +152,7 @@ local theme = {
 		TSUnderline = { fg = lunarised.fg, bg = lunarised.none, style = 'underline' },
 		TSVariable = { fg = lunarised.text },
 		TSVariableBuiltin = { fg = lunarised.blue },
+		TSWarning = { fg = lunarised.white, bg = lunarised.orange },
 	},
 
 	lsp = {
