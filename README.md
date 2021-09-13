@@ -1,4 +1,4 @@
-# `alexblackie/lunarised`
+# 🌝 Lunarised
 
 **Lunarised** is a customized derivative of Solarized that tweaks the colour
 palette to remove the light yellows to make everything a bit more neutral.
