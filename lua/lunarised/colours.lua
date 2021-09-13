@@ -18,7 +18,7 @@ local base = {
 
 local components = {
 	accent = base.blue,
-	active = base.purple,
+	active = base.palegrey,
 	bg = base.white,
 	bg_alt = base.smoke,
 	border = base.smoke,
