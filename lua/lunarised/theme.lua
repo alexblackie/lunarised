@@ -49,7 +49,7 @@ local theme = {
 		DiffDelete = { fg = lunarised.red, bg = lunarised.none, style = 'reverse' },
 		DiffText = { fg = lunarised.purple, bg = lunarised.none, style = 'reverse' },
 		Directory = { fg = lunarised.blue, bg = lunarised.none },
-		EndOfBuffer = { fg = lunarised.disabled },
+		EndOfBuffer = { fg = lunarised.bg },
 		ErrorMsg = { fg = lunarised.none },
 		FoldColumn = { fg = lunarised.blue },
 		Folded = { fg = lunarised.disabled, bg = lunarised.none, style = 'italic' },
