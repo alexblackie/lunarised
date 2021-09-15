@@ -108,7 +108,7 @@ local theme = {
 		TSConstant = { fg = lunarised.yellow },
 		TSConstructor = { fg = lunarised.yellow },
 		TSEmphasis = { fg = lunarised.grey, style = 'bold' },
-		TSError = { fg = lunarised.error, style = 'bold' },
+		TSError = { fg = lunarised.error },
 		TSException = { fg = lunarised.red, style = 'bold' },
 		TSField = { fg = lunarised.purple },
 		TSFloat = { fg = lunarised.red },
