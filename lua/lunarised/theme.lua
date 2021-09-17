@@ -86,7 +86,7 @@ local theme = {
 		Title = { fg = lunarised.grey, bg = lunarised.none, style = 'bold' },
 		ToolbarButton = { fg = lunarised.fg, bg = lunarised.none, style = 'bold' },
 		ToolbarLine = { fg = lunarised.fg, bg = lunarised.bg_alt },
-		VertSplit = { fg = lunarised.border, bg = lunarised.bg },
+		VertSplit = { fg = lunarised.border, bg = lunarised.border },
 		Visual = { fg = lunarised.none, bg = lunarised.selection },
 		VisualMode = { fg = lunarised.yellow, bg = lunarised.none, style = 'reverse' },
 		VisualNOS = { fg = lunarised.none, bg = lunarised.selection },
