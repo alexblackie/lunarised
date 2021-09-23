@@ -75,8 +75,6 @@ local theme = {
 		Tag = { fg = lunarised.red },
 		Title = { fg = lunarised.grey, bg = lunarised.none, style = 'bold' },
 		Todo = { fg = lunarised.purple, bg = lunarised.none, style = 'bold' },
-		ToolbarButton = { fg = lunarised.fg, bg = lunarised.none, style = 'bold' },
-		ToolbarLine = { fg = lunarised.fg, bg = lunarised.bg_alt },
 		Type = { fg = lunarised.yellow },
 		Typedef = { fg = lunarised.red },
 		Underlined = { fg = lunarised.link, bg = lunarised.none, style = 'underline' },
