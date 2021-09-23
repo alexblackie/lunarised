@@ -42,7 +42,7 @@ local theme = {
 		Conceal = { fg = lunarised.disabled },
 		CursorColumn = { fg = lunarised.none, bg = lunarised.bg_alt },
 		CursorLine = { fg = lunarised.none, bg = lunarised.bg_alt },
-		CursorLineNr = { fg = lunarised.accent },
+		CursorLineNr = { fg = lunarised.accent, bg = lunarised.smoke },
 		DiffAdd = { fg = lunarised.green, bg = lunarised.none, style = 'reverse' },
 		DiffChange = { fg = lunarised.orange, bg = lunarised.none, style = 'reverse' },
 		DiffDelete = { fg = lunarised.red, bg = lunarised.none, style = 'reverse' },
