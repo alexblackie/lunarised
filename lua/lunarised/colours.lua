@@ -36,7 +36,6 @@ local components = {
 	line_numbers = base.palegrey,
 	link = base.cyan,
 	selection = base.smoke,
-	text = base.grey,
 }
 
 local overrides_dark = {
@@ -62,7 +61,6 @@ local overrides_dark = {
 	float = base.soot,
 	line_numbers = base.grey,
 	selection = base.a_bit_lighter_than_soot,
-	text = base.cloud,
 }
 
 -- for want of a real stdlib
