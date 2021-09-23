@@ -65,7 +65,7 @@ local theme = {
 		Question = { fg = lunarised.green },
 		QuickFixLine = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
 		Search = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
-		SpecialKey = { fg = lunarised.fg },
+		SpecialKey = { fg = lunarised.error },
 		SpellBad = { fg = lunarised.red, bg = lunarised.none, style = 'italic,undercurl' },
 		SpellCap = { fg = lunarised.blue, bg = lunarised.none, style = 'italic,undercurl' },
 		SpellLocal = { fg = lunarised.cyan, bg = lunarised.none, style = 'italic,undercurl' },
