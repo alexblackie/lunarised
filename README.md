@@ -8,8 +8,8 @@ Solarized is a great theme, but those yellow backgrounds really can wear you
 down after long periods.
 
 This theme is written in Lua and targets **Neovim ≥0.5** exclusively, with
-built-in support for native **LSP**, **Treesitter**, **Lualine**, **NERDTree**,
-and **GitGutter**.
+built-in support for native **Treesitter**, **Lualine**, **NERDTree**, and
+**GitGutter**.
 
 ## Usage
 

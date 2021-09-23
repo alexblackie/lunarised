@@ -45,10 +45,6 @@ return {
 			highlight(group, colors)
 		end
 
-		for group, colors in pairs(theme.lsp) do
-			highlight(group, colors)
-		end
-
 		for group, colors in pairs(theme.plugins) do
 			highlight(group, colors)
 		end

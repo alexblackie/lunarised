@@ -151,32 +151,6 @@ local theme = {
 		TSWarning = { fg = lunarised.white, bg = lunarised.orange },
 	},
 
-	lsp = {
-		LspDiagnosticsDefaultError = { fg = lunarised.error },
-		LspDiagnosticsDefaultHint = { fg = lunarised.yellow },
-		LspDiagnosticsDefaultInformation = { fg = lunarised.grey },
-		LspDiagnosticsDefaultWarning = { fg = lunarised.purple},
-		LspDiagnosticsFloatingError = { fg = lunarised.error },
-		LspDiagnosticsFloatingHint = { fg = lunarised.yellow },
-		LspDiagnosticsFloatingInformation = { fg = lunarised.grey },
-		LspDiagnosticsFloatingWarning = { fg = lunarised.purple},
-		LspDiagnosticsSignError = { fg = lunarised.error },
-		LspDiagnosticsSignHint = { fg = lunarised.yellow },
-		LspDiagnosticsSignInformation = { fg = lunarised.grey },
-		LspDiagnosticsSignWarning = { fg = lunarised.purple},
-		LspDiagnosticsUnderlineError = { style = 'undercurl', sp = lunarised.error },
-		LspDiagnosticsUnderlineHint = { style = 'undercurl', sp = lunarised.grey },
-		LspDiagnosticsUnderlineInformation = { style = 'undercurl', sp = lunarised.grey },
-		LspDiagnosticsUnderlineWarning = { style = 'undercurl', sp = lunarised.purple },
-		LspDiagnosticsVirtualTextError = { fg = lunarised.error },
-		LspDiagnosticsVirtualTextHint = { fg = lunarised.yellow },
-		LspDiagnosticsVirtualTextInformation = { fg = lunarised.grey },
-		LspDiagnosticsVirtualTextWarning = { fg = lunarised.purple},
-		LspReferenceRead = { fg = lunarised.accent, bg = lunarised.highlight },
-		LspReferenceText = { fg = lunarised.accent, bg = lunarised.highlight },
-		LspReferenceWrite = { fg = lunarised.accent, bg = lunarised.highlight },
-	},
-
 	plugins = {
 		-- GitGutter
 		GitGutterAdd = { fg = lunarised.green },
