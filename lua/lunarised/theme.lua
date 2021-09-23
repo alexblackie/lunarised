@@ -9,7 +9,7 @@ local theme = {
 		Debug = { fg = lunarised.red },
 		Define = { fg = lunarised.blue },
 		Delimiter = { fg = lunarised.red },
-		Error = { fg = lunarised.error, bg = lunarised.none, style = 'bold,underline' },
+		Error = { fg = lunarised.error, bg = lunarised.none },
 		Exception = { fg = lunarised.red },
 		Float = { fg = lunarised.orange },
 		Function = { fg = lunarised.blue },
