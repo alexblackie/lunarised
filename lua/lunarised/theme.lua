@@ -190,6 +190,14 @@ local theme = {
 		GitGutterAdd = { fg = lunarised.green },
 		GitGutterChange = { fg = lunarised.purple },
 		GitGutterDelete = { fg = lunarised.red },
+
+		-- NERDTree
+		NERDTreeHelp = { fg = lunarised.fg },
+		NERDTreeDir = { fg = lunarised.contrast },
+		NERDTreeDirSlash = { fg = lunarised.fg },
+		NERDTreeCWD = { fg = lunarised.fg },
+		NERDTreeUp = { fg = lunarised.disabled },
+		NERDTreeExecFile = { fg = lunarised.highlight },
 	}
 }
 
