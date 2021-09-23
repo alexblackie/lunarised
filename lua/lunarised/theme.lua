@@ -94,6 +94,15 @@ local theme = {
 		Warnings = { fg = lunarised.orange },
 		WildMenu = { fg = lunarised.orange, bg = lunarised.none, style = 'bold' },
 		qfLineNr = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
+		mkdURL = { fg = lunarised.purple },
+		diffAdded = { fg = lunarised.green },
+		diffRemoved = { fg = lunarised.red },
+		diffChanged = { fg = lunarised.purple },
+		diffOldFile = { fg = lunarised.yellow },
+		diffNewFile = { fg = lunarised.orange },
+		diffFile = { fg = lunarised.blue },
+		diffLine = { fg = lunarised.comments },
+		diffIndexLine = { fg = lunarised.yellow },
 	},
 
 	treesitter = {
@@ -176,24 +185,11 @@ local theme = {
 	},
 
 	plugins = {
-		-- Diff
-		diffAdded = { fg = lunarised.green },
-		diffRemoved = { fg = lunarised.red },
-		diffChanged = { fg = lunarised.purple },
-		diffOldFile = { fg = lunarised.yellow },
-		diffNewFile = { fg = lunarised.orange },
-		diffFile = { fg = lunarised.blue },
-		diffLine = { fg = lunarised.comments },
-		diffIndexLine = { fg = lunarised.yellow },
-
 		-- GitGutter
 		SignColumn = { bg = lunarised.none },
 		GitGutterAdd = { fg = lunarised.green },
 		GitGutterChange = { fg = lunarised.purple },
 		GitGutterDelete = { fg = lunarised.red },
-
-		-- vim-markdown
-		mkdURL = { fg = lunarised.purple },
 	}
 }
 
