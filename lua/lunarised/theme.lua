@@ -41,7 +41,7 @@ local theme = {
 		CommandMode = { fg = lunarised.grey, bg = lunarised.none, style = 'reverse' },
 		Conceal = { fg = lunarised.disabled },
 		Cursor = { fg = lunarised.cursor, bg = lunarised.none, style = 'reverse' },
-		CursorColumn = { fg = lunarised.none, bg = lunarised.active },
+		CursorColumn = { fg = lunarised.none, bg = lunarised.bg_alt },
 		CursorIM = { fg = lunarised.cursor, bg = lunarised.none, style = 'reverse' },
 		CursorLine = { fg = lunarised.none, bg = lunarised.bg_alt },
 		CursorLineNr = { fg = lunarised.accent },
