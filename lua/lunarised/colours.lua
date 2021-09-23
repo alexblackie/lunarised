@@ -27,7 +27,6 @@ local components = {
 	border = base.cloud,
 	comments = base.palegrey;
 	contrast = base.soot,
-	cursor = base.blue,
 	disabled = base.palegrey,
 	error = base.pink,
 	fg = base.lightgrey,
