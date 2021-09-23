@@ -57,7 +57,7 @@ local theme = {
 		IncSearch = { fg = lunarised.highlight, bg = lunarised.white, style = 'reverse' },
 		InsertMode = { fg = lunarised.green, bg = lunarised.none, style = 'reverse' },
 		LineNr = { fg = lunarised.line_numbers },
-		MatchParen = { fg = lunarised.purple, bg = lunarised.none, style = 'bold' },
+		MatchParen = { fg = lunarised.white, bg = lunarised.highlight },
 		ModeMsg = { fg = lunarised.accent },
 		MoreMsg = { fg = lunarised.accent },
 		NonText = { fg = lunarised.disabled },
