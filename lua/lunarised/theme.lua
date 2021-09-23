@@ -33,7 +33,7 @@ local theme = {
 		Include = { fg = lunarised.red },
 		Keyword = { fg = lunarised.yellow },
 		Label = { fg = lunarised.purple },
-		LineNr = { fg = lunarised.line_numbers },
+		LineNr = { fg = lunarised.grey },
 		Macro = { fg = lunarised.green },
 		MatchParen = { fg = lunarised.white, bg = lunarised.highlight },
 		ModeMsg = { fg = lunarised.accent },
