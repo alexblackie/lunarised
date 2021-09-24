@@ -32,7 +32,6 @@ local components = {
 	fg = base.lightgrey,
 	float = base.cloud,
 	highlight = base.purple,
-	link = base.cyan,
 	selection = base.smoke,
 }
 
