@@ -17,7 +17,7 @@ local base = {
 	Constant = { fg = lunarised.yellow },
 	CursorColumn = presets.subtleBlock,
 	CursorLine = presets.subtleBlock,
-	CursorLineNr = { fg = lunarised.accent, bg = lunarised.smoke },
+	CursorLineNr = { fg = lunarised.accent, bg = lunarised.selection },
 	Debug = { fg = lunarised.red },
 	Define = { fg = lunarised.blue },
 	Delimiter = { fg = lunarised.fg },
