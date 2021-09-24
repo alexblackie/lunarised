@@ -56,7 +56,6 @@ local overrides_dark = {
 	disabled = base.grey,
 	fg = base.cloud,
 	float = base.soot,
-	line_numbers = base.grey,
 	selection = base.a_bit_lighter_than_soot,
 }
 
