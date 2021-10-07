@@ -3,8 +3,8 @@ local base = {
 	soot = '#252525',
 	a_bit_lighter_than_soot = '#333333',
 	blue = '#268bd2',
-	cyan = '#2aa198',
-	green = '#7d8d09',
+	cyan = '#22a2a8',
+	green = '#6d9413',
 	grey = '#586e75',
 	lightgrey = '#657b83',
 	none = 'NONE',
@@ -16,7 +16,7 @@ local base = {
 	smoke = '#f2f2f2',
 	cloud = '#f6f6f6',
 	white = '#ffffff',
-	yellow = '#b58900',
+	yellow = '#cc8c14',
 }
 
 local components = {
