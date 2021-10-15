@@ -36,17 +36,13 @@ local components = {
 }
 
 local overrides_dark = {
-	-- Brighten colours to maintain higher contrast
-	blue = '#2ca1f4',
-	cyan = '#35ccbf',
-	green = '#aabf0b',
-	orange = '#f45c1a',
-	pink = '#f43f97',
-	purple = '#868cf4',
-	red = '#f73733',
-	smoke = "#d5d5d5",
-	cloud = '#cdcdcd',
-	yellow = '#e0a800',
+	-- Desaturate some colours a bit to make them blend better.
+	blue = '#68a5d1',
+	cyan = '#68d1c8',
+	green = '#b9cc51',
+	purple = '#6871d1',
+	red = '#cc6351',
+	yellow = '#cca151',
 
 	-- Override assignments to invert most backgrounds/foregrounds
 	bg = base.black,
