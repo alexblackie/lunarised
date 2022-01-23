@@ -11,7 +11,6 @@ local base = {
 	palegrey = '#839496',
 	pink = '#d33682',
 	purple = '#6c71c4',
-	red = '#dc322f',
 	smoke = '#f2f2f2',
 	cloud = '#f6f6f6',
 	white = '#ffffff',
@@ -40,7 +39,6 @@ local overrides_dark = {
 	cyan = '#68d1c8',
 	green = '#b9cc51',
 	purple = '#6871d1',
-	red = '#cc6351',
 	yellow = '#cca151',
 
 	-- Override assignments to invert most backgrounds/foregrounds
