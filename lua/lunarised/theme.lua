@@ -40,7 +40,7 @@ local base = {
 	Include = { fg = lunarised.orange, style = 'bold' },
 	Keyword = { fg = lunarised.orange },
 	Label = { fg = lunarised.purple },
-	LineNr = { fg = lunarised.grey },
+	LineNr = { fg = lunarised.comments, bg = lunarised.bg_alt },
 	Macro = { fg = lunarised.green },
 	MatchParen = presets.highlight,
 	ModeMsg = { fg = lunarised.accent },
@@ -160,10 +160,10 @@ local treesitter = {
 -- Bespoke support for various third-party plugins
 local plugins = {
 	-- GitGutter
-	GitGutterAdd = { fg = lunarised.green },
-	GitGutterChange = { fg = lunarised.purple },
-	GitGutterDelete = { fg = lunarised.red },
-	SignColumn = { bg = lunarised.none },
+	GitGutterAdd = { fg = lunarised.green, bg = lunarised.bg_alt },
+	GitGutterChange = { fg = lunarised.purple, bg = lunarised.bg_alt },
+	GitGutterDelete = { fg = lunarised.orange, bg = lunarised.bg_alt },
+	SignColumn = { bg = lunarised.bg_alt },
 
 	-- NERDTree
 	NERDTreeCWD = { fg = lunarised.fg },
