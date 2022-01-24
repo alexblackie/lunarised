@@ -2,10 +2,10 @@
 
 ![Preview image of the lunarised colour scheme](./preview.png)
 
-**Lunarised** is a customised derivative of Solarized that tweaks the colour
-palette to remove the light yellows to make everything a bit more neutral.
-Solarized is a great theme, but those yellow backgrounds really can wear you
-down after long periods.
+**Lunarised** is a customised derivative of Solarized Light that removes the
+yellow tint and brings the whole palette towards a more neutral tone. Through
+the Treesitter support, it also tries to highlight only the things that matter,
+instead of trying to assign colour just for the heck of it.
 
 This theme is written in Lua and targets **Neovim ≥0.5** exclusively, with
 built-in support for native **Treesitter**, **Lualine**, **NERDTree**, and
