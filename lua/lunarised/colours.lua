@@ -28,7 +28,6 @@ local components = {
 	disabled = base.palegrey,
 	error = base.pink,
 	fg = base.grey,
-	float = base.cloud,
 	highlight = base.purple,
 	selection = base.smoke,
 }
@@ -48,7 +47,6 @@ local overrides_dark = {
 	contrast = base.cloud,
 	disabled = base.grey,
 	fg = base.cloud,
-	float = base.soot,
 	selection = base.a_bit_lighter_than_soot,
 }
 

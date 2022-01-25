@@ -47,7 +47,7 @@ local base = {
 	MoreMsg = { fg = lunarised.accent },
 	NonText = { fg = lunarised.disabled },
 	Normal = { fg = lunarised.fg, bg = lunarised.bg },
-	NormalFloat = { fg = lunarised.fg, bg = lunarised.float },
+	NormalFloat = { fg = lunarised.fg, bg = lunarised.bg },
 	Number = { },
 	Operator = { },
 	Pmenu = { fg = lunarised.bg, bg = lunarised.contrast },
