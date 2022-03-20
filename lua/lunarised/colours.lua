@@ -32,31 +32,9 @@ local components = {
 	selection = base.smoke,
 }
 
-local overrides_dark = {
-	-- Desaturate some colours a bit to make them blend better.
-	blue = '#68a5d1',
-	cyan = '#68d1c8',
-	green = '#b9cc51',
-	purple = '#6871d1',
-	yellow = '#cca151',
-
-	-- Override assignments to invert most backgrounds/foregrounds
-	bg = base.black,
-	bg_alt = base.soot,
-	border = base.soot,
-	contrast = base.cloud,
-	disabled = base.grey,
-	fg = base.cloud,
-	selection = base.a_bit_lighter_than_soot,
-}
-
 -- for want of a real stdlib
 local lunarised = {}
 for k,v in pairs(base) do lunarised[k] = v end
 for k,v in pairs(components) do lunarised[k] = v end
-
-if vim.g.lunarised_dark == true then
-	for k,v in pairs(overrides_dark) do lunarised[k] = v end
-end
 
 return lunarised

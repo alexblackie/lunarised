@@ -39,12 +39,6 @@ If your terminal supports it, you can enable italicised comments:
 vim.g.lunarised_italic_comments = true
 ```
 
-Or if you prefer a dark theme, you can toggle that on:
-
-```lua
-vim.g.lunarised_dark = true
-```
-
 This theme also supports **Lualine**, just use the `lunarised` theme:
 
 ```lua
