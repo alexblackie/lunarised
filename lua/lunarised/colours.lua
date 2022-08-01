@@ -1,20 +1,19 @@
 local base = {
-	black = '#111111',
-	soot = '#252525',
-	a_bit_lighter_than_soot = '#333333',
-	blue = '#268bd2',
-	cyan = '#22a2a8',
-	green = '#6d9413',
-	grey = '#586e75',
+	black = '#131316',
+	soot = '#26262B',
+	blue = '#537397',
+	cyan = '#508894',
+	grey = '#595964',
+	green = '#617434',
 	none = 'NONE',
-	orange = '#cb4b16',
-	palegrey = '#839496',
-	pink = '#d33682',
-	purple = '#6c71c4',
-	smoke = '#f2f2f2',
-	cloud = '#f6f6f6',
-	white = '#ffffff',
-	yellow = '#cc8c14',
+	red = '#7B2000',
+	pink = '#8E629D',
+	palegrey = '#90909D',
+	purple = '#5F4D84',
+	smoke = '#E7E7E9',
+	cloud = '#F1F1F3',
+	white = '#FAF9FA',
+	yellow = '#B66D3A',
 }
 
 local components = {
@@ -28,7 +27,7 @@ local components = {
 	disabled = base.palegrey,
 	error = base.pink,
 	fg = base.grey,
-	highlight = base.purple,
+	highlight = base.pink,
 	selection = base.smoke,
 }
 
