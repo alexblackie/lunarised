@@ -1,0 +1,29 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "schemes":
+    [
+        {
+            "background": "#FAF9FA",
+            "black": "#131316",
+            "blue": "#537397",
+            "brightBlack": "#26262B",
+            "brightBlue": "#537397",
+            "brightCyan": "#508894",
+            "brightGreen": "#617434",
+            "brightPurple": "#5F4D84",
+            "brightRed": "#7B2000",
+            "brightWhite": "#FAF9FA",
+            "brightYellow": "#B66D3A",
+            "cursorColor": "#8E629D",
+            "cyan": "#508894",
+            "foreground": "#595964",
+            "green": "#617434",
+            "name": "Lunarised",
+            "purple": "#5F4D84",
+            "red": "#7B2000",
+            "selectionBackground": "#FFFFFF",
+            "white": "#F1F1F3",
+            "yellow": "#B66D3A"
+        }
+    ]
+}
