@@ -27,7 +27,7 @@ local components = {
 	disabled = base.palegrey,
 	error = base.pink,
 	fg = base.grey,
-	highlight = base.pink,
+	highlight = base.yellow,
 	selection = base.smoke,
 }
 
