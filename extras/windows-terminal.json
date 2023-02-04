@@ -6,11 +6,11 @@
             "background": "#FAF9FA",
             "black": "#131316",
             "blue": "#537397",
-            "brightBlack": "#26262B",
+            "brightBlack": "#595964",
             "brightBlue": "#537397",
             "brightCyan": "#508894",
             "brightGreen": "#617434",
-            "brightPurple": "#5F4D84",
+            "brightPurple": "#8E629D",
             "brightRed": "#7B2000",
             "brightWhite": "#FAF9FA",
             "brightYellow": "#B66D3A",
@@ -21,7 +21,7 @@
             "name": "Lunarised",
             "purple": "#5F4D84",
             "red": "#7B2000",
-            "selectionBackground": "#FFFFFF",
+            "selectionBackground": "#EFEFEF",
             "white": "#F1F1F3",
             "yellow": "#B66D3A"
         }
