@@ -30,7 +30,7 @@ local base = {
 	Error = { fg = lunarised.error, bg = lunarised.none },
 	ErrorMsg = { fg = lunarised.none },
 	Exception = { fg = lunarised.red, style = 'bold' },
-	Float = { },
+	Float = { fg = lunarised.fg, bg = lunarised.smoke },
 	FoldColumn = { fg = lunarised.blue },
 	Folded = { fg = lunarised.disabled, bg = lunarised.none, style = 'italic' },
 	Function = { fg = lunarised.blue },
@@ -47,7 +47,7 @@ local base = {
 	MoreMsg = { fg = lunarised.accent },
 	NonText = { fg = lunarised.disabled },
 	Normal = { fg = lunarised.fg, bg = lunarised.bg },
-	NormalFloat = { fg = lunarised.fg, bg = lunarised.bg },
+	NormalFloat = { fg = lunarised.fg, bg = lunarised.cloud },
 	Number = { },
 	Operator = { },
 	Pmenu = { fg = lunarised.bg, bg = lunarised.contrast },
@@ -172,6 +172,9 @@ local plugins = {
 	NERDTreeExecFile = { fg = lunarised.highlight },
 	NERDTreeHelp = { fg = lunarised.fg },
 	NERDTreeUp = { fg = lunarised.disabled },
+
+	-- Coc.vim
+	CocFloating = { bg = lunarised.smoke },
 }
 
 local theme = {
